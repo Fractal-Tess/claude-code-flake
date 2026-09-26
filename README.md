@@ -73,9 +73,9 @@ The daily [update workflow](.github/workflows/update.yml) runs at 12:00 UTC, fet
 
 Pass a version such as `./scripts/update.sh 2.1.283` to pin a specific release. The workflow can also be started manually from GitHub Actions.
 
-## Credits
+## Credits and mirrors
 
-[GitHub](https://github.com/Fractal-Tess/claude-code-flake)
+[GitHub](https://github.com/Fractal-Tess/claude-code-flake) · Gitadel: `ssh://git@neo.netbird.cloud:2222/fractal-tess/claude-code-flake.git`
 
 The flake packaging is [MIT](LICENSE). Claude Code is proprietary software, © Anthropic PBC, and is governed by [Anthropic's Commercial Terms of Service](https://www.anthropic.com/legal/commercial-terms). The packaging approach follows the [nixpkgs `claude-code` derivation](https://github.com/NixOS/nixpkgs/tree/master/pkgs/by-name/cl/claude-code).
 
