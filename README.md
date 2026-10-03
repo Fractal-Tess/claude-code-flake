@@ -7,7 +7,7 @@
 <p align="center">
   <a href="flake.nix"><img src="https://img.shields.io/badge/Nix-flake-5277C3?logo=nixos&logoColor=white" alt="Nix flake" /></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue" alt="MIT license" /></a>
-  <a href="https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md"><img src="https://img.shields.io/badge/claude--code-2.1.287-D97757" alt="Claude Code 2.1.287" /></a>
+  <a href="https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md"><img src="https://img.shields.io/badge/claude--code-2.1.288-D97757" alt="Claude Code 2.1.288" /></a>
 </p>
 
 [Claude Code](https://github.com/anthropics/claude-code) is Anthropic's agentic coding tool for the terminal.
@@ -71,7 +71,7 @@ The daily [update workflow](.github/workflows/update.yml) runs at 12:00 UTC, fet
 ./scripts/update.sh
 ```
 
-Pass a version such as `./scripts/update.sh 2.1.287` to pin a specific release. The workflow can also be started manually from GitHub Actions.
+Pass a version such as `./scripts/update.sh 2.1.288` to pin a specific release. The workflow can also be started manually from GitHub Actions.
 
 ## Credits and mirrors
 
